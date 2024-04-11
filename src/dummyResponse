@@ -1,0 +1,435 @@
+{
+  "took": 20,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 14,
+      "relation": "eq"
+    },
+    "max_score": 25.234674,
+    "hits": [
+      {
+        "_index": "movies",
+        "_id": "tt1731141",
+        "_score": 25.234674,
+        "_source": {
+          "directors": [
+            "Gavin Hood"
+          ],
+          "release_date": "2013-10-24T00:00:00Z",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzMzI5OTgzMl5BMl5BanBnXkFtZTgwMTU5MTAwMDE@._V1_SX400_.jpg",
+          "plot": "70 years after a horrific alien war, an unusually gifted child is sent to an advanced military school in space to prepare for a future invasion.",
+          "title": "Ender's Game",
+          "rank": 59,
+          "running_time_secs": 6840,
+          "actors": [
+            "Harrison Ford",
+            "Asa Butterfield",
+            "Hailee Steinfeld"
+          ],
+          "year": 2013,
+          "id": "tt1731141",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt0266987",
+        "_score": 24.969025,
+        "_source": {
+          "directors": [
+            "Tony Scott"
+          ],
+          "release_date": "2001-11-19T00:00:00Z",
+          "rating": 6.9,
+          "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BNjI2OTU4NDcyNl5BMl5BanBnXkFtZTYwNTM2OTU3._V1_SX400_.jpg",
+          "plot": "Retiring CIA agent Nathan Muir recalls his training of Tom Bishop while working against agency politics to free him from his Chinese captors.",
+          "title": "Spy Game",
+          "rank": 2153,
+          "running_time_secs": 7560,
+          "actors": [
+            "Robert Redford",
+            "Brad Pitt",
+            "Catherine McCormack"
+          ],
+          "year": 2001,
+          "id": "tt0266987",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt0119174",
+        "_score": 24.3634,
+        "_source": {
+          "directors": [
+            "David Fincher"
+          ],
+          "release_date": "1997-09-12T00:00:00Z",
+          "rating": 7.7,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BNTQyNjcxNDg0M15BMl5BanBnXkFtZTcwNjE2MzIyMQ@@._V1_SX400_.jpg",
+          "plot": "Wealthy financier Nicholas Van Orton gets a strange birthday present from wayward brother Conrad: a live-action game that consumes his life.",
+          "title": "The Game",
+          "rank": 1113,
+          "running_time_secs": 7740,
+          "actors": [
+            "Michael Douglas",
+            "Deborah Kara Unger",
+            "Sean Penn"
+          ],
+          "year": 1997,
+          "id": "tt0119174",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt0977855",
+        "_score": 24.3634,
+        "_source": {
+          "directors": [
+            "Doug Liman"
+          ],
+          "release_date": "2010-05-20T00:00:00Z",
+          "rating": 6.8,
+          "genres": [
+            "Biography",
+            "Drama",
+            "Thriller"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMjIyOTg1NzU0Ml5BMl5BanBnXkFtZTcwMjA2OTY5Mw@@._V1_SX400_.jpg",
+          "plot": "CIA operative Valerie Plame discovers her identity is allegedly leaked by the government as payback for an op-ed article her husband wrote criticizing the Bush administration.",
+          "title": "Fair Game",
+          "rank": 2922,
+          "running_time_secs": 6480,
+          "actors": [
+            "Naomi Watts",
+            "Sean Penn",
+            "Sonya Davison"
+          ],
+          "year": 2010,
+          "id": "tt0977855",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt0104036",
+        "_score": 23.147928,
+        "_source": {
+          "directors": [
+            "Neil Jordan"
+          ],
+          "release_date": "1992-09-02T00:00:00Z",
+          "rating": 7.3,
+          "genres": [
+            "Crime",
+            "Drama",
+            "Romance",
+            "Thriller"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMTI3NjE3NTAyN15BMl5BanBnXkFtZTcwMDg2MzcyMQ@@._V1_SX400_.jpg",
+          "plot": "A British soldier is kidnapped by IRA terrorists. He befriends one of his captors, who is drawn into the soldier's world.",
+          "title": "The Crying Game",
+          "rank": 2801,
+          "running_time_secs": 6720,
+          "actors": [
+            "Stephen Rea",
+            "Jaye Davidson",
+            "Forest Whitaker"
+          ],
+          "year": 1992,
+          "id": "tt0104036",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt2084970",
+        "_score": 22.77011,
+        "_source": {
+          "directors": [
+            "Morten Tyldum"
+          ],
+          "release_date": "2014-01-01T00:00:00Z",
+          "genres": [
+            "Biography",
+            "Drama",
+            "Thriller"
+          ],
+          "plot": "English mathematician and logician, Alan Turing, helps crack the Enigma code during World War II.",
+          "title": "The Imitation Game",
+          "rank": 2647,
+          "year": 2014,
+          "actors": [
+            "Benedict Cumberbatch",
+            "Keira Knightley",
+            "Mark Strong"
+          ],
+          "id": "tt2084970",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt0492956",
+        "_score": 22.77011,
+        "_source": {
+          "directors": [
+            "Andy Fickman"
+          ],
+          "release_date": "2007-09-23T00:00:00Z",
+          "rating": 6,
+          "genres": [
+            "Comedy",
+            "Family",
+            "Sport"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMTAzNDIyODYzMTJeQTJeQWpwZ15BbWU3MDA3NTA5NDE@._V1_SX400_.jpg",
+          "plot": "An NFL quarterback living the bachelor lifestyle discovers that he has a 8-year-old daughter from a previous relationship.",
+          "title": "The Game Plan",
+          "rank": 2747,
+          "running_time_secs": 6600,
+          "actors": [
+            "Dwayne Johnson",
+            "Kyra Sedgwick",
+            "Madison Pettis"
+          ],
+          "year": 2007,
+          "id": "tt0492956",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt2466830",
+        "_score": 21.559782,
+        "_source": {
+          "directors": [
+            "Josh Greenbaum"
+          ],
+          "release_date": "2013-03-10T00:00:00Z",
+          "rating": 8.7,
+          "genres": [
+            "Documentary",
+            "Sport"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1NDYxNTU0Nl5BMl5BanBnXkFtZTcwNDg0MDMyOQ@@._V1_SX400_.jpg",
+          "title": "The Short Game",
+          "rank": 4197,
+          "running_time_secs": 5940,
+          "actors": [
+            "Edd Hall",
+            "Jennifer Van Horn"
+          ],
+          "year": 2013,
+          "id": "tt2466830",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt0124718",
+        "_score": 21.30835,
+        "_source": {
+          "directors": [
+            "Spike Lee"
+          ],
+          "release_date": "1998-05-01T00:00:00Z",
+          "rating": 6.8,
+          "genres": [
+            "Drama",
+            "Sport"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMTg3MTY1NjgxM15BMl5BanBnXkFtZTYwMjU2Mzc5._V1_SX400_.jpg",
+          "plot": "A basketball player's father must try to convince him to go to a college so he can get a shorter sentence.",
+          "title": "He Got Game",
+          "rank": 3085,
+          "running_time_secs": 8160,
+          "actors": [
+            "Denzel Washington",
+            "Milla Jovovich",
+            "Ray Allen"
+          ],
+          "year": 1998,
+          "id": "tt0124718",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt0269341",
+        "_score": 17.96804,
+        "_source": {
+          "directors": [
+            "Mark Brown"
+          ],
+          "release_date": "2001-08-29T00:00:00Z",
+          "rating": 5.7,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwOTU5MTk2M15BMl5BanBnXkFtZTcwMDY5NDIyMQ@@._V1_SX400_.jpg",
+          "plot": "An arrogant career woman plays a series of heartless mind-games with her boyfriend to \"put him in line,\" only to discover that he has a few tricks up his own sleeve.",
+          "title": "Two Can Play That Game",
+          "rank": 4581,
+          "running_time_secs": 5400,
+          "actors": [
+            "Vivica A. Fox",
+            "Morris Chestnut",
+            "Anthony Anderson"
+          ],
+          "year": 2001,
+          "id": "tt0269341",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt0126916",
+        "_score": 16.696735,
+        "_source": {
+          "directors": [
+            "Sam Raimi"
+          ],
+          "release_date": "1999-09-15T00:00:00Z",
+          "rating": 6.3,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Sport"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMTcyMDk1ODM5N15BMl5BanBnXkFtZTYwNjYzNzQ5._V1_SX400_.jpg",
+          "plot": "A washed up pitcher flashes through his career.",
+          "title": "For Love of the Game",
+          "rank": 4987,
+          "running_time_secs": 8220,
+          "actors": [
+            "Kevin Costner",
+            "Kelly Preston",
+            "John C. Reilly"
+          ],
+          "year": 1999,
+          "id": "tt0126916",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt0388980",
+        "_score": 16.477009,
+        "_source": {
+          "directors": [
+            "Bill Paxton"
+          ],
+          "release_date": "2005-09-30T00:00:00Z",
+          "rating": 7.3,
+          "genres": [
+            "Drama",
+            "History",
+            "Sport"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4NDk3MDk0NV5BMl5BanBnXkFtZTcwMzk4OTgyMQ@@._V1_SX400_.jpg",
+          "plot": "In the 1913 US Open, 20-year-old Francis Ouimet played against his idol, 1900 US Open champion, Englishman Harry Vardon.",
+          "title": "The Greatest Game Ever Played",
+          "rank": 3366,
+          "running_time_secs": 7200,
+          "actors": [
+            "Shia LaBeouf",
+            "Stephen Dillane",
+            "Elias Koteas"
+          ],
+          "year": 2005,
+          "id": "tt0388980",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt1515091",
+        "_score": 14.560646,
+        "_source": {
+          "directors": [
+            "Guy Ritchie"
+          ],
+          "release_date": "2011-12-10T00:00:00Z",
+          "rating": 7.4,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Crime",
+            "Mystery",
+            "Thriller"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMTQwMzQ5Njk1MF5BMl5BanBnXkFtZTcwNjIxNzIxNw@@._V1_SX400_.jpg",
+          "plot": "Sherlock Holmes and his sidekick Dr. Watson join forces to outwit and bring down their fiercest adversary, Professor Moriarty.",
+          "title": "Sherlock Holmes: A Game of Shadows",
+          "rank": 570,
+          "running_time_secs": 7740,
+          "actors": [
+            "Robert Downey Jr.",
+            "Jude Law",
+            "Jared Harris"
+          ],
+          "year": 2011,
+          "id": "tt1515091",
+          "type": "add"
+        }
+      },
+      {
+        "_index": "movies",
+        "_id": "tt0338459",
+        "_score": 14.560646,
+        "_source": {
+          "directors": [
+            "Robert Rodriguez"
+          ],
+          "release_date": "2003-07-13T00:00:00Z",
+          "rating": 4,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Sci-Fi"
+          ],
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4MTQyNTUzMF5BMl5BanBnXkFtZTcwNzE2MDAwMQ@@._V1_SX400_.jpg",
+          "plot": "Carmen's caught in a virtual reality game designed by the Kids' new nemesis, the Toymaker (Stallone). It's up to Juni to save his sister, and ultimately the world.",
+          "title": "Spy Kids 3-D: Game Over",
+          "rank": 2212,
+          "running_time_secs": 5040,
+          "actors": [
+            "Daryl Sabara",
+            "Alexa Vega",
+            "Antonio Banderas"
+          ],
+          "year": 2003,
+          "id": "tt0338459",
+          "type": "add"
+        }
+      }
+    ]
+  }
+}
