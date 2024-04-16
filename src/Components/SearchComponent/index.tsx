@@ -87,7 +87,7 @@ export const App = () => {
   // });
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const Panel = ({ header, children, ...props }: any) => {
+  const Panel = ({ header, children }: any) => {
     // console.log(props)
     return (
       <StyledPanel className="panel">
