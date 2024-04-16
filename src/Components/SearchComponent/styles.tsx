@@ -42,6 +42,7 @@ export const StyledFilters = styled.div`
 
 export const StyledPanel = styled.div`
   color: inherit;
+  margin-bottom: 10px;
   h5 {
     margin: 0;
   }

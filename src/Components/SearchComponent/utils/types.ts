@@ -1,3 +1,10 @@
+import type {
+  SearchRequest as ElasticsearchSearchRequest,
+  SearchResponseBody as ElasticsearchBaseResponseBody,
+  SearchHit as ElasticsearchBaseHit,
+} from "@elastic/elasticsearch/lib/api/types";
+import type { MultipleQueriesQuery as AlgoliaMultipleQueriesQuery } from "@algolia/client-search";
+
 export interface Transporter {
   config?: ConfigConnection;
   msearch: (requests: SearchRequest[]) => Promise<ElasticsearchResponseBody[]>;
