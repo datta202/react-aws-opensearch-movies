@@ -7,6 +7,15 @@ import { Container, StyledFiltersAndHits, StyledFilters, StyledPanel } from './s
 import { useEffect, useState } from "react";
 
 
+
+/* 
+* < !--Searchkit Stylesheet-- >
+*  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7/themes/satellite-min.css"></link>
+* 
+*  - This is not working, so added content in below file and import that csss 
+*/
+import './satelite-min.css';
+
 class MyTransporter extends ESTransporter {
   async performNetworkRequest(requests: SearchRequest[]) {
 
