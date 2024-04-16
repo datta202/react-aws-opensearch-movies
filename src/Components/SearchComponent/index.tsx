@@ -43,8 +43,11 @@ export const App = () => {
     if (key) {
       return
     }
+    setTimeout(() => {
+      setKey(window.prompt("Enter api key") || "");
 
-    setKey(window.prompt("Enter api key") || "");
+    }, 100)
+
   }, [key])
 
 
